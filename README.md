@@ -1,12 +1,6 @@
 # [GrapesJS file](http://grapesjs.com/demo.html)
 
-This plugin replaces the default file uploader with the one from file
-
-Demo: http://grapesjs.com/demo.html
-
-<p align="center"><img src="http://grapesjs.com/img/screen-fs.jpg" alt="GrapesJS" width="500" align="center"/></p>
-<br/>
-
+This plugin replaces the default file
 
 
 ## Summary
@@ -24,8 +18,6 @@ Demo: http://grapesjs.com/demo.html
 ## Download
 
 * `npm i grapesjs-plugin-file`
-* Latest release link https://github.com/artf/grapesjs-plugin-file/releases/latest
-
 
 
 ## Usage
